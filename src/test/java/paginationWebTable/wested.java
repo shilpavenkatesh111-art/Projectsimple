@@ -1,0 +1,8 @@
+package paginationWebTable;
+
+public class wested {
+public static void main(String[] args) {
+	System.out.println("hi");
+}
+}
+
